@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>agenciaviajes</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>agenciaviajes.dump</name>
+			<type>1</type>
+			<location>//home/cristhian/Descargas/Materiales/Materiales/agenciaviajes.dump</location>
+		</link>
+	</linkedResources>
+</projectDescription>
